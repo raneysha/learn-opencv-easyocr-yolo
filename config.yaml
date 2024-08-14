@@ -1,7 +1,6 @@
-path: C:\Projects\GitHub\learn-opencv-easyocr-yolo\data
+path: C:\Projects\GitHub\learn-opencv-easyocr-yolo\dist
 train: images/train
 val: images/train
 
 names:
   0: plat
-  
